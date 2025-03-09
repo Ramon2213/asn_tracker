@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/asn_tracker/static/css/main.9583d348.css",
+    "main.js": "/asn_tracker/static/js/main.100f6c9f.js",
+    "static/js/453.a31fff6b.chunk.js": "/asn_tracker/static/js/453.a31fff6b.chunk.js",
+    "index.html": "/asn_tracker/index.html",
+    "main.9583d348.css.map": "/asn_tracker/static/css/main.9583d348.css.map",
+    "main.100f6c9f.js.map": "/asn_tracker/static/js/main.100f6c9f.js.map",
+    "453.a31fff6b.chunk.js.map": "/asn_tracker/static/js/453.a31fff6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9583d348.css",
+    "static/js/main.100f6c9f.js"
+  ]
+}
