@@ -32,7 +32,7 @@ const FundTable = () => {
                 <tbody>
                     {funds.map((fund) => (
                         <tr key={fund.fundId}>
-                            <td className="lol" > {fund.fundName.slice(13)}</td>
+                            <td className="fundname" > {fund.fundName.slice(13)}</td>
                             {dates.map((date) => (
                                 <td key={date}>
                                     {fund.prices[date] ? fund.prices[date].toFixed(2) : "-"}
